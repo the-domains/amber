@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Amber]]></title>
+        <description><![CDATA[Amber]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 12 Jun 2016 15:34:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Most Heavily Guarded Places On Earth]]></title>
+            <description><![CDATA[<article><h1>10 Most Heavily Guarded Places On Earth</h1><p>There are many places on Earth that are difficult to almost impossible to reach. Aside from natural sites, among them are many man-made objects, such as underground shelters, underground and surface bases and private depositories. Today we're going to tell you about the most famous of these places.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hbFdlnHIAcM</link>
+            <guid isPermaLink="false">930f85ff-507f-4cb9-97a3-841ffbe7be74</guid>
+            <pubDate>Sun, 12 Jun 2016 15:33:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
