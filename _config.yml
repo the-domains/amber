@@ -1,14 +1,14 @@
-layout_spectrum: 0.8050801681820303
-typography_spectrum: 0.5827147450763732
+layout_spectrum: 0.02405728166922927
+typography_spectrum: 0.6225081507582217
 color:
-  brandStrength: 0.3500297162681818
-  lightness: 0.04547780752182007
-  saturation: 0.9418920315802097
-  rhythmicContrast: 0.095780085073784
+  brandStrength: 0.9744055026676506
+  lightness: 0.4621133296750486
+  saturation: 0.15513532562181354
+  rhythmicContrast: 0.9560626505408436
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Amber
